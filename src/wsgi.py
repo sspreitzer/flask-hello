@@ -1,1 +1,1 @@
-from maya import app
+from hello import app
